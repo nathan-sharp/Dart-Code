@@ -1,0 +1,12 @@
+name: fizz_buzz
+description: >-
+  Simple fizz buzz program
+version: 0.0.1
+homepage: https://www.njsharp.uk/
+repository: https://github.com/nathan-sharp/dart-code/blob/main/fizz-buzz/fizz_buzz.dart
+
+environment:
+  sdk: '^3.2.0'
+
+executables:
+  FizzBuzz: main
